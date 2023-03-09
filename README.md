@@ -12,6 +12,6 @@ installation
 
 6: install catppuccin mocha syntax highlighting theme
 
-3: install spaceship prompt
+7: install spaceship prompt
 
-4: put these files in ur home directory
+8: put these files in ur home directory
